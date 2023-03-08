@@ -7,6 +7,9 @@
 * Display if the current clip has an active __loop on__
 * Display the __remaining time__ that a track has left
 
+ ### Your files need to be in this format to work properly: artistname - trackname_BPM_key.mp3 !
+ You can use my Meta-Music_Toolbox to prepare your library for this device: https://github.com/Adrian-Winter/Meta-Music-Toolbox
+
 ![alt text](https://github.com/Adrian-Winter/Ableton-Dj-Booth/blob/main/Documentation/AbletonDJBooth%20Showcase.gif)
 
 ## Why did I create this device ? 😇
@@ -20,6 +23,8 @@ That is why I decided to invest the time to build this device, It is very much p
  + Step two: Drag and drop the __amxd file on an Audio Track__ in Ableton.
  + Step three: Select a __second Audio-Track__ that you want to use.
  + Step four: __Open the widget__ (you can adjust the size by simply drag and droppping the widget frame.) 
+ 
+
 
 ![alt text](https://github.com/Adrian-Winter/Ableton-Dj-Booth/blob/main/Documentation/Widget%20Explenation%202.png)
 
